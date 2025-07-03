@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33735E56-9121-400B-8680-4C2BF62C5CCA}|9\uC7A5 \uACFC\uC81C_2\\9\uC7A5 \uACFC\uC81C_2.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33735E56-9121-400B-8680-4C2BF62C5CCA}|9\uC7A5 \uACFC\uC81C_2\\9\uC7A5 \uACFC\uC81C_2.vcxproj|solutionrelative:9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FBB8D5-2D10-41C8-8425-CF3160CFD05D}|\uC2E4\uC2B5\\\uC2E4\uC2B5.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17FBB8D5-2D10-41C8-8425-CF3160CFD05D}|\uC2E4\uC2B5\\\uC2E4\uC2B5.vcxproj|solutionrelative:\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uACFC\uC81C#1-2_maxheap.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c",
+              "RelativeDocumentMoniker": "9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c",
+              "RelativeToolTip": "9\uC7A5 \uACFC\uC81C_2\\\uACFC\uC81C#1-2_maxheap.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T06:24:18.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uACFC\uC81C#1-1_minheap.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c",
+              "RelativeDocumentMoniker": "\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uC2E4\uC2B5\\\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c",
+              "RelativeToolTip": "\uC2E4\uC2B5\\\uACFC\uC81C#1-1_minheap.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T05:55:13.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

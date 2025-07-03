@@ -1,0 +1,5 @@
+﻿  TEST.c
+C:\Users\kuroc\source\repos\과제\교과서\TEST.c(35,17): warning C4098: 'push': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\kuroc\source\repos\과제\교과서\TEST.c(178,13): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kuroc\source\repos\과제\교과서\TEST.c(175,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  교과서.vcxproj -> C:\Users\kuroc\source\repos\과제\x64\Debug\교과서.exe

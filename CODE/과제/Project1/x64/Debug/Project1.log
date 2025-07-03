@@ -1,0 +1,3 @@
+﻿  Matrix.c
+C:\Users\kuroc\source\repos\과제\Project1\Matrix.c(165,5): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  Project1.vcxproj -> C:\Users\kuroc\source\repos\과제\x64\Debug\희소 행렬.exe

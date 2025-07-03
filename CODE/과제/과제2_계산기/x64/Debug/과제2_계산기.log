@@ -1,0 +1,5 @@
+﻿  과제.c
+C:\Users\kuroc\source\repos\과제\과제2_계산기\과제.c(140,13): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kuroc\source\repos\과제\과제2_계산기\과제.c(190,31): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\kuroc\source\repos\과제\과제2_계산기\과제.c(190,31): warning C4024: 'postfix': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  과제2_계산기.vcxproj -> C:\Users\kuroc\source\repos\과제\x64\Debug\과제2_계산기.exe

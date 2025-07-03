@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(기말 퀴즈.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  퀴즈4.c
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(62): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(67): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(60,15): warning C4047: '함수': 'stack *'의 간접 참조 수준이 'stack **'과(와) 다릅니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(60,15): warning C4024: 'isEmpty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(65,15): warning C4047: '함수': 'stack *'의 간접 참조 수준이 'stack **'과(와) 다릅니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(65,15): warning C4024: 'isEmpty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(70,14): warning C4047: '함수': 'stack *'의 간접 참조 수준이 'stack **'과(와) 다릅니다.
+C:\Users\kuroc\source\repos\기말 퀴즈\기말 퀴즈\퀴즈4.c(70,14): warning C4024: 'isFull': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  기말 퀴즈.vcxproj -> C:\Users\kuroc\source\repos\기말 퀴즈\x64\Debug\2024 데구랩 퀴즈3.exe

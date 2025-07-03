@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B141C8-3327-493B-8153-C7C51ABDF159}|4-11\\4-11.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\4-11\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1B141C8-3327-493B-8153-C7C51ABDF159}|4-11\\4-11.vcxproj|solutionrelative:4-11\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DFA593-047E-40AF-B61D-204C98E312F6}|\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C2_\uACC4\uC0B0\uAE30.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DFA593-047E-40AF-B61D-204C98E312F6}|\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C2_\uACC4\uC0B0\uAE30.vcxproj|solutionrelative:\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB136073-68D7-47A6-B5B2-C11B0D1A09A6}|\uAD50\uACFC\uC11C\\\uAD50\uACFC\uC11C.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\\TEST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB136073-68D7-47A6-B5B2-C11B0D1A09A6}|\uAD50\uACFC\uC11C\\\uAD50\uACFC\uC11C.vcxproj|solutionrelative:\uAD50\uACFC\uC11C\\TEST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8DE282-E81E-486D-A68E-0AA643FEBF31}|\uACFC\uC81C\\\uACFC\uC81C.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C8DE282-E81E-486D-A68E-0AA643FEBF31}|\uACFC\uC81C\\\uACFC\uC81C.vcxproj|solutionrelative:\uACFC\uC81C\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCE2805-94B0-4D13-8661-516AD4CEA065}|\uACFC\uC81C2\\\uACFC\uC81C2.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCE2805-94B0-4D13-8661-516AD4CEA065}|\uACFC\uC81C2\\\uACFC\uC81C2.vcxproj|solutionrelative:\uACFC\uC81C2\\\uACFC\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEAA7F8-863A-4D77-B2BB-A6A76B6DE54C}|\uD034\uC9883\\\uD034\uC9883.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9883\\\uD034\uC988.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CEAA7F8-863A-4D77-B2BB-A6A76B6DE54C}|\uD034\uC9883\\\uD034\uC9883.vcxproj|solutionrelative:\uD034\uC9883\\\uD034\uC988.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E9093-B799-49A9-8A02-FFE46A8D9DAE}|Project1\\Project1.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\Project1\\Matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{016E9093-B799-49A9-8A02-FFE46A8D9DAE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CF231D-6B07-44FD-A8DB-F5E149A2F855}|\uD034\uC9882_1\\\uD034\uC9882_1.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9882_1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CF231D-6B07-44FD-A8DB-F5E149A2F855}|\uD034\uC9882_1\\\uD034\uC9882_1.vcxproj|solutionrelative:\uD034\uC9882_1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1219DAE-E617-4FCF-9FB2-97A09FAA303F}|\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1219DAE-E617-4FCF-9FB2-97A09FAA303F}|\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.vcxproj|solutionrelative:\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB12C2B9-9541-48B9-BF41-9CF88907E4A3}|\uBB38\uC81C4\\\uBB38\uC81C4.vcxproj|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uBB38\uC81C4\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB12C2B9-9541-48B9-BF41-9CF88907E4A3}|\uBB38\uC81C4\\\uBB38\uC81C4.vcxproj|solutionrelative:\uBB38\uC81C4\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uB370\uAD6C\uB7A9.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c",
+              "RelativeDocumentMoniker": "\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c",
+              "RelativeToolTip": "\uB370\uAD6C\uB7A9\\\uB370\uAD6C\uB7A9.c",
+              "ViewState": "AQIAAE4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:36.652Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uBB38\uC81C4\\1.c",
+              "RelativeDocumentMoniker": "\uBB38\uC81C4\\1.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uBB38\uC81C4\\1.c",
+              "RelativeToolTip": "\uBB38\uC81C4\\1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:33.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\uAD50\uACFC.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c",
+              "RelativeDocumentMoniker": "\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c",
+              "RelativeToolTip": "\uAD50\uACFC\uC11C\u314F\\\uAD50\uACFC.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-03T02:22:26.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9882_1\\1.c",
+              "RelativeDocumentMoniker": "\uD034\uC9882_1\\1.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9882_1\\1.c",
+              "RelativeToolTip": "\uD034\uC9882_1\\1.c",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:30.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\Project1\\Matrix.c",
+              "RelativeDocumentMoniker": "Project1\\Matrix.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\Project1\\Matrix.c",
+              "RelativeToolTip": "Project1\\Matrix.c",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\uD034\uC988.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9883\\\uD034\uC988.c",
+              "RelativeDocumentMoniker": "\uD034\uC9883\\\uD034\uC988.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uD034\uC9883\\\uD034\uC988.c",
+              "RelativeToolTip": "\uD034\uC9883\\\uD034\uC988.c",
+              "ViewState": "AQIAADkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uACFC\uC81C.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2\\\uACFC\uC81C.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C2\\\uACFC\uC81C.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2\\\uACFC\uC81C.c",
+              "RelativeToolTip": "\uACFC\uC81C2\\\uACFC\uC81C.c",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:09.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C\\1.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C\\1.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C\\1.c",
+              "RelativeToolTip": "\uACFC\uC81C\\1.c",
+              "ViewState": "AQIAADkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T02:09:05.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uACFC\uC81C.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\4-11\\\uACFC\uC81C.c",
+              "RelativeDocumentMoniker": "4-11\\\uACFC\uC81C.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\4-11\\\uACFC\uC81C.c",
+              "RelativeToolTip": "4-11\\\uACFC\uC81C.c",
+              "ViewState": "AgIAABgAAAAAAAAAAADwv08AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T00:31:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uACFC\uC81C.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c",
+              "RelativeToolTip": "\uACFC\uC81C2_\uACC4\uC0B0\uAE30\\\uACFC\uC81C.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-30T02:58:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TEST.c",
+              "DocumentMoniker": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\\TEST.c",
+              "RelativeDocumentMoniker": "\uAD50\uACFC\uC11C\\TEST.c",
+              "ToolTip": "C:\\Users\\kuroc\\source\\repos\\\uACFC\uC81C\\\uAD50\uACFC\uC11C\\TEST.c",
+              "RelativeToolTip": "\uAD50\uACFC\uC11C\\TEST.c",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAMIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T04:09:16.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

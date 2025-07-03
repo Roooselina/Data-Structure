@@ -1,0 +1,7 @@
+﻿  퀴즈.c
+C:\Users\kuroc\source\repos\과제\퀴즈3\퀴즈.c(46,16): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\kuroc\source\repos\과제\퀴즈3\퀴즈.c(46,5): warning C4273: 'remove': dll 연결이 일치하지 않습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+  'remove'의 이전 정의를 참조하십시오.
+  
+  퀴즈3.vcxproj -> C:\Users\kuroc\source\repos\과제\x64\Debug\퀴즈3.exe
